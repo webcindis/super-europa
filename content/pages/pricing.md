@@ -87,6 +87,12 @@ sections:
 
           - dolor sit amet
         type: faq_item
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
 seo:
   title: Pricing
   description: This is the pricing page
